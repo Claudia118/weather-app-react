@@ -7,9 +7,9 @@
   border-radius: 5px;
 }
 
-.Weather a{
+.Weather a {
   text-decoration: none;
-} 
+}
 
 .Weather h1 {
   display: block;
@@ -32,8 +32,8 @@
   list-style: none;
 }
 
-.Weather .city-description{
-    margin-top: 15px;
+.Weather .city-description {
+  margin-top: 15px;
 }
 
 .Weather .icon {
@@ -47,11 +47,11 @@
   font-size: 64px;
 }
 
-.Weather .unit{
-    color: rgb(33, 33, 33);
-    font-size: 16px;
-    font-weight: 400;
-    position: relative;
-    top: -34px;
-    margin-left: 5px;
+.Weather .unit {
+  color: rgb(33, 33, 33);
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  top: -34px;
+  margin-left: 5px;
 }
